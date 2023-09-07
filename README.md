@@ -10,9 +10,10 @@ Each tutorial folder has a link in the Data-Source.txt that points to where the 
 Single-Grid Tutorials Folders 
 
 - These folders include the pipeline version that analyzes one simulation or observations .fits file. 
-- There are tutorial examples for both an observational .fits file, and two separate simulation .fits files 
+- There are tutorial examples for both an observational .fits file, and one simulation .fits files 
 - Notebooks include how to run the pipeline, and how to analyze pipeline outputs. 
-- The folder also includes a folder with the pipeline already ran 
+
+Note : The pipeline has been tested on other simulation data. If you have any questions, feel free to email eem85@cornell.edu. 
 
 Multiple-Grid Tutorial Folders 
 

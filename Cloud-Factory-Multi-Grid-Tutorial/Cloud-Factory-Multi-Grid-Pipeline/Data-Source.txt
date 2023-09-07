@@ -1,0 +1,3 @@
+Download the data for this notebook from : 
+
+This notebook runs the pipeline on the full array of .fits files for one Cloud Factory grid.
