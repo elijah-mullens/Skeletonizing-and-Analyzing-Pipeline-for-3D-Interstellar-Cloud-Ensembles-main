@@ -1,3 +1,13 @@
 Download the data for this notebook from : 
 
+You will need : 
+
+nCO_x1470y1400z1400.fits
+nH1_x1470y1400z1400.fits
+nH2_x1470y1400z1400.fits
+nHP_x1470y1400z1400.fits
+nhtot_x1470y1400z1400.fits
+tdust_fits_x1470y1400z1400.fits
+temp_fits_x1470y1400z1400.fits
+
 This notebook runs the pipeline on the full array of .fits files for one Cloud Factory grid.

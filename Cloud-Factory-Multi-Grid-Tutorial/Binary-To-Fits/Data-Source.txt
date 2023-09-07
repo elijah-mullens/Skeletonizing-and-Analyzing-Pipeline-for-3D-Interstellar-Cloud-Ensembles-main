@@ -1,3 +1,12 @@
 Download the data for this notebook from : 
 
+You will need : 
+
+density_grid_x1470y1400z1400
+tdust_grid_x1470y1400z1400
+temp_grid_x1470y1400z1400
+xCO_grid_x1470y1400z1400
+xH2_grid_x1470y1400z1400
+xHP_grid_x1470y1400z1400
+
 These notebooks turn AREPO files into fits files (Make sure you run both notebooks, Making-HI-Files second)

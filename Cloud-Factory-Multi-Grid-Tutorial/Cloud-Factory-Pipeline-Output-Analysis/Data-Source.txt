@@ -1,3 +1,10 @@
 Download the data for this notebook from : 
 
+Most of the files you need to run the notebook are already present. 
+You will need additionally : 
+
+nhtot_x1470y1400z1400.fits 
+nhtot_x1470y1400z1400_35_thresholded_data.fits
+nhtot_x1470y1400z1400_35_skeleton.fits
+
 This notebook analyzes the outputs from the pipeline (specifically the outputs from Cloud-Factory-Multi-Grid-Pipeline tutorial)
