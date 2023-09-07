@@ -1,0 +1,12 @@
+Installation Instructions 
+
+I reccomend creating a new conda environment for filfinder3d
+
+You will need to download the filfinder3d. 
+Once FilFinder is downloaded, open the terminal, type “cd /path/to/directory/”  to go to the FilFinder directory
+and then “pip install -e .” Make sure you have python 3.9.
+
+As for the rest of the packages, go to Installation-Test.ipynb and just make sure you can run
+the installation cell 
+
+If not, conda install or pip install the necessary packages. 

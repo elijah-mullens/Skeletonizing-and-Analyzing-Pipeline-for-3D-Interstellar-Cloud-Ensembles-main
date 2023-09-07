@@ -1,0 +1,10 @@
+Simulation data is publicly available at : 
+
+https://www.dropbox.com/sh/oouac538ya9dbfd/AAC7AgGOq8IdhRanTQxnZLFWa/Feedback_dominated?dl=0&subfolder_nav_tracking=1
+
+Have to use the Binary-To-Fits folder to turn AREPO files into fits files (Make sure you run both notebooks, Making-HI-Files second)
+
+Star-Forming-Sink-Files contain npy files with all the star forming sinks (see Cloud-Factory-Pipeline-Output-Analysis)
+
+Cloud-Factory-Multi-Grid-Pipeline is a clean directory where the pipeline has not been run, the ran version is where the pipeline as been run. The output analysis folder contains a notebook that explores the pipeline outputs one-by-one. 
+

@@ -1,0 +1,4 @@
+Simulation data is publicly available at : https://www.dropbox.com/sh/oouac538ya9dbfd/AAC7AgGOq8IdhRanTQxnZLFWa/Feedback_dominated?dl=0&subfolder_nav_tracking=1
+
+Have to use the Binary-To-Fits folder to turn 
+AREPO files into fits files
