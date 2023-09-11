@@ -1,3 +1,4 @@
-Observational data is publicly available at : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IADP7W
+Observational data from Zucker 2021 is publicly available at :
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IADP7W
 
 No need to download any external data for this tutorial! 

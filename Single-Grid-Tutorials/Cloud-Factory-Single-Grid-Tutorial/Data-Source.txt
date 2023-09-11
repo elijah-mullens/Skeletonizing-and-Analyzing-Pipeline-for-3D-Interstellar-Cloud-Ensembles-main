@@ -1,4 +1,4 @@
 Download the data for this notebook from : 
 
 You will need : 
-nH2_x1470y1400z1400.fits
+nhtot_x1470y1400z1400.fits
