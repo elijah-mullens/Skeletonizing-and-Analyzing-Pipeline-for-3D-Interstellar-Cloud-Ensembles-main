@@ -15,6 +15,9 @@ Single-Grid Tutorials Folders
 
 Note : The pipeline has been tested on other simulation data. If you have any questions, feel free to email eem85@cornell.edu. 
 
+Note : The pipeline assumes that simlation grids are in positiion-position-position (ppp) space, not position-position-velocity (ppv). The pipeline will skeltonize and analyze ppv grids, but the results will 
+need to be interpreted more carefully. 
+
 Multiple-Grid Tutorial Folders 
 
 - These folders include the pipeline version that was specifically made for the Cloud Factory simulation grids. 

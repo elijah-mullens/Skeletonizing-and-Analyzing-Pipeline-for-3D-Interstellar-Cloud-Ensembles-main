@@ -1,6 +1,7 @@
-Download the data for this notebook from : 
+Download the data for this notebook from : https://zenodo.org/record/8338117
 
 Most of the files you need to run the notebook are already present. 
+
 You will need additionally : 
 
 nhtot_x1470y1400z1400.fits 

@@ -1,4 +1,4 @@
-Download the data for this notebook from : 
+Download the data for this notebook from : https://zenodo.org/record/8338117
 
 You will need : 
 
@@ -11,3 +11,7 @@ tdust_fits_x1470y1400z1400.fits
 temp_fits_x1470y1400z1400.fits
 
 This notebook runs the pipeline on the full array of .fits files for one Cloud Factory grid.
+
+DISCLAIMER : Note that while the pipeline will make radial profile gifs for the tdust fits files by default,
+             this is not the dust temperature but instead the effective cooling from the dust. 
+            
