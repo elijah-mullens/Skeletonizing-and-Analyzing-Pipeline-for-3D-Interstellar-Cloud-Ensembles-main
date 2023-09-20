@@ -1,8 +1,9 @@
-Cloud Factory simulation data is publicly available at : 
+This folder contains notebooks on : 
 
-This notebook contains 
 1. How to convert the AREPO grids to fits files (to feed into the pipeline)
 2. How to run the pipeline on the Cloud Factory grids 
 3. How to analyze the outputs 
 
 It also includes the star forming sink files for all grids (i.e. files that contain the location of star forming sinks)
+
+The data download links will be in each individual folder. 
